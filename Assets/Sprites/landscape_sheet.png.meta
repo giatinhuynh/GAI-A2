@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 7fa5f9b5332bad543b50a3498a1a7a54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8182201819708987415
+    second: landscape_sheet_0
+  - first:
+      213: 5338204759007585382
+    second: landscape_sheet_1
+  - first:
+      213: 7651689853795553271
+    second: landscape_sheet_2
+  - first:
+      213: -8866084920809421590
+    second: landscape_sheet_3
+  - first:
+      213: 2627654065080426611
+    second: landscape_sheet_4
+  - first:
+      213: -4520804618652183506
+    second: landscape_sheet_5
+  - first:
+      213: -3504936981662482226
+    second: landscape_sheet_6
+  - first:
+      213: -870717704332207834
+    second: landscape_sheet_7
+  - first:
+      213: 5208624978125425447
+    second: landscape_sheet_8
+  - first:
+      213: 8180717764698243889
+    second: landscape_sheet_9
+  - first:
+      213: -2289387335907702595
+    second: landscape_sheet_10
+  - first:
+      213: -5782390486217301396
+    second: landscape_sheet_11
+  - first:
+      213: 3334376676217790443
+    second: landscape_sheet_12
+  - first:
+      213: -5424798281098623351
+    second: landscape_sheet_13
+  - first:
+      213: -5804390567226479446
+    second: landscape_sheet_14
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: landscape_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 333
+        width: 120
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e0bfcbcaf27e80800000000000000
+      internalID: -8182201819708987415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 357
+        width: 152
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66462fef1fc151a40800000000000000
+      internalID: 5338204759007585382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 330
+        width: 198
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc1f2b163403a60800000000000000
+      internalID: 7651689853795553271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 415
+        width: 133
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae405b23db655f480800000000000000
+      internalID: -8866084920809421590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 245
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370eab5437d477420800000000000000
+      internalID: 2627654065080426611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 245
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e249a4ec620e241c0800000000000000
+      internalID: -4520804618652183506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 235
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c0e79266fb5fc0800000000000000
+      internalID: -3504936981662482226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5
+        width: 237
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62992a57cd69ae3f0800000000000000
+      internalID: -870717704332207834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 28
+        width: 215
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b846532d0c84840800000000000000
+      internalID: 5208624978125425447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 28
+        width: 222
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1330194b67fb78170800000000000000
+      internalID: 8180717764698243889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 203
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db881f109567a30e0800000000000000
+      internalID: -2289387335907702595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 46
+        width: 133
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626b6c3d72d0cfa0800000000000000
+      internalID: -5782390486217301396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 166
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef1f45bbe5164e20800000000000000
+      internalID: 3334376676217790443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 152
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98687f484be37b4b0800000000000000
+      internalID: -5424798281098623351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: landscape_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 47
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac66d63889a27fa0800000000000000
+      internalID: -5804390567226479446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      landscape_sheet_0: -8182201819708987415
+      landscape_sheet_1: 5338204759007585382
+      landscape_sheet_10: -2289387335907702595
+      landscape_sheet_11: -5782390486217301396
+      landscape_sheet_12: 3334376676217790443
+      landscape_sheet_13: -5424798281098623351
+      landscape_sheet_14: -5804390567226479446
+      landscape_sheet_2: 7651689853795553271
+      landscape_sheet_3: -8866084920809421590
+      landscape_sheet_4: 2627654065080426611
+      landscape_sheet_5: -4520804618652183506
+      landscape_sheet_6: -3504936981662482226
+      landscape_sheet_7: -870717704332207834
+      landscape_sheet_8: 5208624978125425447
+      landscape_sheet_9: 8180717764698243889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

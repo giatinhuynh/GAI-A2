@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24385510d32ac14418fd071022037314
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HeartSprite: {fileID: 21300000, guid: 857eedef998e2834e937b11ba9a0681d, type: 3}
+  - FlySprite: {fileID: 21300000, guid: 2ee0537041b8fdc47ba32d74833870c5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
